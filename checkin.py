@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AnyRouter.top 自动签到脚本（精简版）
+AnyRouter.top 自动签到脚本
 """
 
 import asyncio
