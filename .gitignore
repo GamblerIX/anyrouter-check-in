@@ -1,7 +1,0 @@
-.claude
-.env
-.venv
-__pycache__
-.pytest_cache
-.ruff_cache
-balance_hash.txt
